@@ -1,6 +1,6 @@
 # How Virtualization (Hypervisors) Works
 
-> **Level:** Advanced · **Related:** [Virtual Machines](virtual-machines.md) · [VPS](vps.md) · [CPU](../01-hardware/cpu.md) · [OS](../03-os-and-software/operating-system.md) · [RAM](../01-hardware/ram.md) · [Drivers](../03-os-and-software/drivers.md)
+> **Level:** Advanced · **Related:** [Virtual Machines](virtual-machines.md) · [Containers](containers.md) · [VPS](vps.md) · [CPU](../01-hardware/cpu.md) · [OS](../03-os-and-software/operating-system.md) · [RAM](../01-hardware/ram.md) · [Drivers](../03-os-and-software/drivers.md)
 
 ## 1. The core idea
 

@@ -64,6 +64,12 @@ Every article follows the same structure:
 | 45 | [How game physics works](docs/09-game-development/game-physics.md) | Game Development |
 | 46 | [How collision detection works](docs/09-game-development/collision-detection.md) | Game Development |
 | 47 | [How textures work](docs/09-game-development/textures.md) | Game Development |
+| 48 | [How SSH works](docs/05-networking-and-web/ssh.md) | Networking & Web |
+| 49 | [How domains work](docs/05-networking-and-web/domains.md) | Networking & Web |
+| 50 | [How DNS works](docs/05-networking-and-web/dns.md) | Networking & Web |
+| 51 | [How SSL/TLS works](docs/06-security-and-data/ssl-tls.md) | Security & Data |
+| 52 | [How containers (Docker) work](docs/08-virtualization-and-cloud/containers.md) | Virtualization & Cloud |
+| 53 | [How a web browser works](docs/05-networking-and-web/browser.md) | Networking & Web |
 
 ---
 
@@ -75,10 +81,10 @@ docs/
 ├── 02-graphics/              Computer Graphics · Shaders · Ray Tracing · DLSS · Frame Generation
 ├── 03-os-and-software/       Operating System · Drivers · Software/Apps · Code Compilation · Lexical Environment
 ├── 04-wireless-and-telecom/  Radio · Wi-Fi · Bluetooth · NFC · 3G/4G/5G · SIM/eSIM · GPS · Wireless Charging
-├── 05-networking-and-web/    Web Protocols · Web Server · Proxy · VPN · WebRTC
-├── 06-security-and-data/     Encryption · Compression · Malware · Payment Terminals
+├── 05-networking-and-web/    Web Protocols · Web Server · Proxy · VPN · WebRTC · APIs · SSH · Domains · DNS · Browser
+├── 06-security-and-data/     Encryption · Compression · Malware · Payment Terminals · SSL/TLS
 ├── 07-ai/                    AI Image Detection · LLMs · Offline AI · Tokenization
-├── 08-virtualization-and-cloud/  VPS · Virtualization/Hypervisors · Virtual Machines
+├── 08-virtualization-and-cloud/  VPS · Virtualization/Hypervisors · Virtual Machines · Containers (Docker)
 └── 09-game-development/      Game Engines · Game Physics · Collision Detection · Textures
 ```
 
@@ -115,6 +121,12 @@ The topics build on each other. If you're starting fresh, these orders work well
 
 **Path 10: Game development**
 [Game Engines](docs/09-game-development/game-engines.md) → [Game Physics](docs/09-game-development/game-physics.md) → [Collision Detection](docs/09-game-development/collision-detection.md) → [Textures](docs/09-game-development/textures.md) → [Computer Graphics](docs/02-graphics/computer-graphics.md) → [Shaders](docs/02-graphics/shaders.md)
+
+**Path 11: How a website reaches you** (name → server → page)
+[Domains](docs/05-networking-and-web/domains.md) → [DNS](docs/05-networking-and-web/dns.md) → [Web Protocols](docs/05-networking-and-web/web-protocols.md) → [SSL/TLS](docs/06-security-and-data/ssl-tls.md) → [Web Server](docs/05-networking-and-web/web-server.md) → [Browser](docs/05-networking-and-web/browser.md)
+
+**Path 12: Deploying and operating a service**
+[VPS](docs/08-virtualization-and-cloud/vps.md) → [SSH](docs/05-networking-and-web/ssh.md) → [Containers (Docker)](docs/08-virtualization-and-cloud/containers.md) → [Web Server](docs/05-networking-and-web/web-server.md) → [DNS](docs/05-networking-and-web/dns.md) → [SSL/TLS](docs/06-security-and-data/ssl-tls.md)
 
 ## Conventions
 
