@@ -1,6 +1,6 @@
 # How Code Compilation Works
 
-> **Level:** Advanced · **Related:** [Lexical Environment](lexical-environment.md) · [Software/Apps](software-and-apps.md) · [CPU](../01-hardware/cpu.md) · [Shaders](../02-graphics/shaders.md)
+> **Level:** Advanced · **Related:** [Lexical Environment](lexical-environment.md) · [Machine Code](machine-code.md) · [Software/Apps](software-and-apps.md) · [CPU](../01-hardware/cpu.md) · [Shaders](../02-graphics/shaders.md)
 
 ## 1. The big picture
 

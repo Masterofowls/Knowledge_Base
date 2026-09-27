@@ -1,6 +1,6 @@
 # How AI Image Detection Works
 
-> **Level:** Advanced · **Related:** [NPU](../01-hardware/npu.md) · [GPU](../01-hardware/gpu.md) · [Sensors (cameras)](../01-hardware/sensors-and-detectors.md) · [DLSS](../02-graphics/dlss.md)
+> **Level:** Advanced · **Related:** [NPU](../01-hardware/npu.md) · [GPU](../01-hardware/gpu.md) · [LLMs](llm.md) · [Offline AI](offline-ai.md) · [Sensors (cameras)](../01-hardware/sensors-and-detectors.md) · [DLSS](../02-graphics/dlss.md)
 
 "AI image detection" covers two related families of tasks:
 

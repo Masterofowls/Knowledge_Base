@@ -1,6 +1,6 @@
 # How Computer Graphics Work
 
-> **Level:** Advanced · **Related:** [GPU](../01-hardware/gpu.md) · [Shaders](shaders.md) · [Ray Tracing](ray-tracing.md) · [DLSS](dlss.md) · [Frame Generation](frame-generation.md)
+> **Level:** Advanced · **Related:** [GPU](../01-hardware/gpu.md) · [Shaders](shaders.md) · [Textures](../09-game-development/textures.md) · [Game Engines](../09-game-development/game-engines.md) · [Ray Tracing](ray-tracing.md) · [DLSS](dlss.md) · [Frame Generation](frame-generation.md)
 
 ## 1. The problem
 

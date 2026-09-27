@@ -52,6 +52,18 @@ Every article follows the same structure:
 | 33 | [How the lexical environment works](docs/03-os-and-software/lexical-environment.md) | OS & Software |
 | 34 | [How encryption works](docs/06-security-and-data/encryption.md) | Security & Data |
 | 35 | [How compression (archives) works](docs/06-security-and-data/compression.md) | Security & Data |
+| 36 | [How LLMs work](docs/07-ai/llm.md) | AI |
+| 37 | [How offline (local) AI works](docs/07-ai/offline-ai.md) | AI |
+| 38 | [How tokenization works](docs/07-ai/tokenization.md) | AI |
+| 39 | [How APIs work](docs/05-networking-and-web/api.md) | Networking & Web |
+| 40 | [How machine code works](docs/03-os-and-software/machine-code.md) | OS & Software |
+| 41 | [How a VPS works](docs/08-virtualization-and-cloud/vps.md) | Virtualization & Cloud |
+| 42 | [How virtualization (hypervisors) works](docs/08-virtualization-and-cloud/virtualization.md) | Virtualization & Cloud |
+| 43 | [How virtual machines work](docs/08-virtualization-and-cloud/virtual-machines.md) | Virtualization & Cloud |
+| 44 | [How game engines work](docs/09-game-development/game-engines.md) | Game Development |
+| 45 | [How game physics works](docs/09-game-development/game-physics.md) | Game Development |
+| 46 | [How collision detection works](docs/09-game-development/collision-detection.md) | Game Development |
+| 47 | [How textures work](docs/09-game-development/textures.md) | Game Development |
 
 ---
 
@@ -65,7 +77,9 @@ docs/
 ├── 04-wireless-and-telecom/  Radio · Wi-Fi · Bluetooth · NFC · 3G/4G/5G · SIM/eSIM · GPS · Wireless Charging
 ├── 05-networking-and-web/    Web Protocols · Web Server · Proxy · VPN · WebRTC
 ├── 06-security-and-data/     Encryption · Compression · Malware · Payment Terminals
-└── 07-ai/                    AI Image Detection
+├── 07-ai/                    AI Image Detection · LLMs · Offline AI · Tokenization
+├── 08-virtualization-and-cloud/  VPS · Virtualization/Hypervisors · Virtual Machines
+└── 09-game-development/      Game Engines · Game Physics · Collision Detection · Textures
 ```
 
 ## Suggested learning paths
@@ -92,6 +106,15 @@ The topics build on each other. If you're starting fresh, these orders work well
 
 **Path 7: AI hardware and vision**
 [NPU](docs/01-hardware/npu.md) → [Sensors (cameras)](docs/01-hardware/sensors-and-detectors.md) → [AI Image Detection](docs/07-ai/image-detection.md) → [DLSS](docs/02-graphics/dlss.md)
+
+**Path 8: Language models**
+[Tokenization](docs/07-ai/tokenization.md) → [LLMs](docs/07-ai/llm.md) → [Offline AI](docs/07-ai/offline-ai.md) → [NPU](docs/01-hardware/npu.md) → [APIs](docs/05-networking-and-web/api.md)
+
+**Path 9: Virtualization and the cloud**
+[Machine Code](docs/03-os-and-software/machine-code.md) → [Virtualization/Hypervisors](docs/08-virtualization-and-cloud/virtualization.md) → [Virtual Machines](docs/08-virtualization-and-cloud/virtual-machines.md) → [VPS](docs/08-virtualization-and-cloud/vps.md) → [Web Server](docs/05-networking-and-web/web-server.md)
+
+**Path 10: Game development**
+[Game Engines](docs/09-game-development/game-engines.md) → [Game Physics](docs/09-game-development/game-physics.md) → [Collision Detection](docs/09-game-development/collision-detection.md) → [Textures](docs/09-game-development/textures.md) → [Computer Graphics](docs/02-graphics/computer-graphics.md) → [Shaders](docs/02-graphics/shaders.md)
 
 ## Conventions
 
