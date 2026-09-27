@@ -1,6 +1,6 @@
 # How Encryption Works
 
-> **Level:** Advanced · **Related:** [Web Protocols (TLS)](../05-networking-and-web/web-protocols.md) · [VPN](../05-networking-and-web/vpn.md) · [Payment Terminals](payment-terminal.md) · [SIM/eSIM](../04-wireless-and-telecom/sim-esim.md) · [Compression](compression.md) · [Malware](malware.md)
+> **Level:** Advanced · **Related:** [SSL/TLS](ssl-tls.md) · [Web Protocols](../05-networking-and-web/web-protocols.md) · [SSH](../05-networking-and-web/ssh.md) · [VPN](../05-networking-and-web/vpn.md) · [Payment Terminals](payment-terminal.md) · [SIM/eSIM](../04-wireless-and-telecom/sim-esim.md) · [Compression](compression.md) · [Malware](malware.md)
 
 ## 1. Goals and vocabulary
 

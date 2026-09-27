@@ -1,6 +1,6 @@
 # How a VPS Works
 
-> **Level:** Advanced · **Related:** [Virtualization/Hypervisors](virtualization.md) · [Virtual Machines](virtual-machines.md) · [Web Server](../05-networking-and-web/web-server.md) · [OS](../03-os-and-software/operating-system.md) · [VPN](../05-networking-and-web/vpn.md) · [Proxy](../05-networking-and-web/proxy.md)
+> **Level:** Advanced · **Related:** [Virtualization/Hypervisors](virtualization.md) · [Virtual Machines](virtual-machines.md) · [Containers](containers.md) · [SSH](../05-networking-and-web/ssh.md) · [Web Server](../05-networking-and-web/web-server.md) · [OS](../03-os-and-software/operating-system.md) · [VPN](../05-networking-and-web/vpn.md) · [Proxy](../05-networking-and-web/proxy.md)
 
 ## 1. What a VPS is
 
