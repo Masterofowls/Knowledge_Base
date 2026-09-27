@@ -1,6 +1,6 @@
 # How Software / Apps Work
 
-> **Level:** Advanced · **Related:** [OS](operating-system.md) · [Compilation](code-compilation.md) · [Lexical Environment](lexical-environment.md) · [CPU](../01-hardware/cpu.md) · [Web Server](../05-networking-and-web/web-server.md)
+> **Level:** Advanced · **Related:** [OS](operating-system.md) · [Compilation](code-compilation.md) · [Machine Code](machine-code.md) · [Lexical Environment](lexical-environment.md) · [CPU](../01-hardware/cpu.md) · [Web Server](../05-networking-and-web/web-server.md)
 
 ## 1. What "an app" really is
 
